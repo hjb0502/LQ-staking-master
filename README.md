@@ -1,2 +1,2 @@
-# LQ-staking-master
- rust example
+# Liquid staking 
+Liquid staking program for the Solana blockchain
